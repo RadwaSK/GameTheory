@@ -1,0 +1,6 @@
+IF YOU DON'T HAVE VISUAL STUDIO INSTALLED!
+-To Open the code for solution algorithm, in "Codes (App+Algorithm).rar" file (or LightsOut_Algorithm folder), there is LightsOut_Algorithm folder, in it you would find main.cpp and matrix.cpp files, which can be opened on any text editor.
+-To open the application, in "Game (no code).rar" file, open led board.application file and press install. The game would appear.
+
+If you have Visual Studio installed, you can open either of the two projects in Codes (App+Algorithm).rar file and go through the whole code easily.
+The game's project (C#) is separate in a file named "Lights-Out Game.rar"
